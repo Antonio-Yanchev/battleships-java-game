@@ -66,21 +66,21 @@ src/BattleShipCW/
 
 Initial CLI board and prompt:
 
-![CLI board and input prompt](C:/Users/anton/.cursor/projects/c-Users-anton-Desktop-battleships-java-game/assets/c__Users_anton_AppData_Roaming_Cursor_User_workspaceStorage_823088c4f2ee34cdfc512105fc50affa_images_image-e6bb51fb-13c8-4610-a2bd-75efe4ba73da.png)
+![CLI board and input prompt](docs/images/cli-start.png)
 
 CLI win state after sinking all ships:
 
-![CLI completed game](C:/Users/anton/.cursor/projects/c-Users-anton-Desktop-battleships-java-game/assets/c__Users_anton_AppData_Roaming_Cursor_User_workspaceStorage_823088c4f2ee34cdfc512105fc50affa_images_image-556adcd1-6028-4ccf-92c8-6be04eaed98c.png)
+![CLI completed game](docs/images/cli-end.png)
 
 ### GUI Gameplay
 
 Initial GUI board:
 
-![GUI initial board](C:/Users/anton/.cursor/projects/c-Users-anton-Desktop-battleships-java-game/assets/c__Users_anton_AppData_Roaming_Cursor_User_workspaceStorage_823088c4f2ee34cdfc512105fc50affa_images_image-64111954-4a5e-4b63-97a7-059303115f37.png)
+![GUI initial board](docs/images/gui-start.png)
 
 GUI end-game state:
 
-![GUI completed game](C:/Users/anton/.cursor/projects/c-Users-anton-Desktop-battleships-java-game/assets/c__Users_anton_AppData_Roaming_Cursor_User_workspaceStorage_823088c4f2ee34cdfc512105fc50affa_images_image-4f9ef200-9c6d-4cc5-be44-a8b8ccc2c7f7.png)
+![GUI completed game](docs/images/gui-end.png)
 
 ## What This Project Demonstrates
 
